@@ -10,6 +10,8 @@
 **Control Flow Graph**
 
 Фотографија од control flow graph-ot
+<img width="518" alt="граф" src="https://user-images.githubusercontent.com/82409891/120224133-1c665d00-c243-11eb-987e-12871c645fcd.png">
+
 
 **Цикломатска комплексност**
 
